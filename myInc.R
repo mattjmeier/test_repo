@@ -1,1 +1,1 @@
-myInc <- function(x){x+2}
+myInc <- function(x){x+2}myInc <- function(x){x+2}
