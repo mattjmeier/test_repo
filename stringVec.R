@@ -1,6 +1,6 @@
 StringVec <- function(x, sep = ";"){
   #added a comment
-    out <- "C" 
+    out <- "A"
     for(k in 1:length(x)){
       paste(out, sep, sep = "")
     }
